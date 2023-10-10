@@ -1,0 +1,13 @@
+.w-auto{
+    width: fit-content!important;
+}
+
+a{
+    color: #2997ff!important;
+}
+
+[class^="bi-"]::before, [class*=" bi-"]::before {
+    line-height: 1.5;
+    font-weight: bolder!important;
+    font-size: .7rem
+}
