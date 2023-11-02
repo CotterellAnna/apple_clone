@@ -14,6 +14,8 @@ function Collection(props){
                         heading={unit.heading}
                         subHeading={unit.subHeading}
                         textColor={unit.textColor}
+                        learnMoreLink="https://www.apple.com/"
+                        buyLink="https://www.apple.com/"
                     />
                 })}
             </div>

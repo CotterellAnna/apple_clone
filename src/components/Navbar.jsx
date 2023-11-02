@@ -9,7 +9,7 @@ function Navbar(){
     return(
         <nav className="navbar navbar-expand-lg" style={navStyle}>
             <div className="container-fluid justify-content-center">
-                <a className="navbar-brand m-0 px-2 py-0 flex-grow-0" href="#">
+                <a className="navbar-brand m-0 px-2 py-0 flex-grow-0" href="https://www.apple.com/">
                     <img src="/images/apple_logo.svg" alt="" className="img-fluid" />
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
